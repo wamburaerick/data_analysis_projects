@@ -18,7 +18,7 @@ Brief description of the repository.
 
 Brief description of project 1.
 
-- [Project 1 README](./project-1/README.md)
+- [Project 1 README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
 
 - Any additional information or instructions for project 1.
 
