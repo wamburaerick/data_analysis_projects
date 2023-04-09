@@ -16,7 +16,7 @@ Brief description of the repository.
 
 ## Analysis of Chocolate Products
 
-CHOCOLATE 
+Awesome Chocolates Products sales for six countries by different sales people.
 
 - [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
 
