@@ -14,11 +14,11 @@ Brief description of the repository.
 
 - [License](#license)
 
-## Project 1 Name
+## Analysis of Chocolate Products
 
 Brief description of project 1.
 
-- [Analysis of Chocolate Products README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
+- [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
 
 - Any additional information or instructions for project 1.
 
