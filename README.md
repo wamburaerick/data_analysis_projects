@@ -5,13 +5,10 @@ Brief description of the repository.
 ## Table of Contents
 
 - [Analysis of Chocolate Products](https://github.com/wamburaerick/data_analysis_projects/blob/main/Analysis%20of%20Sales%20Data.ipynb)
-
-- [Project 2 Name](#project-2-name)
-
+- [Titanic Survival Prediction](https://github.com/wamburaerick/data_analysis_projects/blob/main/Prediction.ipynb)
 - [Project 3 Name](#project-3-name)
 
 - [Contributing](#contributing)
-
 - [License](#license)
 
 ## Analysis of Chocolate Products
@@ -19,16 +16,16 @@ Brief description of the repository.
 Awesome Chocolates Products sales for six countries by different sales people.
 
 - [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
-
 - [DATASET](https://github.com/wamburaerick/data_analysis_projects/blob/main/blank.xls)
 
-## Project 2 Name
+## Titanic Survival Prediction 
 
-Brief description of project 2.
+From Kaggle Competition.
 
-- [Project 2 README](./project-2/README.md)
-
-- Any additional information or instructions for project 2.
+- [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
+- [TRAIN(DATASET)](https://github.com/wamburaerick/data_analysis_projects/blob/main/train.csv)
+- [TEST(DATASET)](https://github.com/wamburaerick/data_analysis_projects/blob/main/test.csv)
+- [SUBMISSION](https://github.com/wamburaerick/data_analysis_projects/blob/main/Erick_Submission.csv)
 
 ## Project 3 Name
 
