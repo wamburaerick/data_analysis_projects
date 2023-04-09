@@ -16,11 +16,11 @@ Brief description of the repository.
 
 ## Analysis of Chocolate Products
 
-Brief description of project 1.
+CHOCOLATE 
 
 - [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
 
-- Any additional information or instructions for project 1.
+- [DATASET](https://github.com/wamburaerick/data_analysis_projects/blob/main/blank.xls)
 
 ## Project 2 Name
 
