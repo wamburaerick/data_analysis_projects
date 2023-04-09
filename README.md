@@ -1,39 +1,27 @@
 # Data Analysis Projects
-
-Brief description of the repository.
+2My Data Analytics Journey
 
 ## Table of Contents
-
 - [Analysis of Chocolate Products](https://github.com/wamburaerick/data_analysis_projects/blob/main/Analysis%20of%20Sales%20Data.ipynb)
 - [Titanic Survival Prediction](https://github.com/wamburaerick/data_analysis_projects/blob/main/Prediction.ipynb)
-- [Project 3 Name](#project-3-name)
-
-- [Contributing](#contributing)
-- [License](#license)
+- [A Year's Sales](https://github.com/wamburaerick/data_analysis_projects/blob/main/Sales%20Analysis.ipynb)
 
 ## Analysis of Chocolate Products
-
 Awesome Chocolates Products sales for six countries by different sales people.
-
 - [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
 - [DATASET](https://github.com/wamburaerick/data_analysis_projects/blob/main/blank.xls)
 
 ## Titanic Survival Prediction 
-
 From Kaggle Competition.
-
 - [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
 - [TRAIN(DATASET)](https://github.com/wamburaerick/data_analysis_projects/blob/main/train.csv)
 - [TEST(DATASET)](https://github.com/wamburaerick/data_analysis_projects/blob/main/test.csv)
 - [SUBMISSION](https://github.com/wamburaerick/data_analysis_projects/blob/main/Erick_Submission.csv)
 
-## Project 3 Name
-
-Brief description of project 3.
-
-- [Project 3 README](./project-3/README.md)
-
-- Any additional information or instructions for project 3.
+## A Year's Sales
+A year's sales data. Analyzed only to look at the specific sales per specific times.
+- [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
+- [DATASET](https://github.com/wamburaerick/data_analysis_projects/blob/main/data.xlsx)
 
 ## Contributing
 
