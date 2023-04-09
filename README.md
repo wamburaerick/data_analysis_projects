@@ -1,5 +1,5 @@
 # Data Analysis Projects
-2My Data Analytics Journey
+My Data Analytics Journey
 
 ## Table of Contents
 - [Analysis of Chocolate Products](https://github.com/wamburaerick/data_analysis_projects/blob/main/Analysis%20of%20Sales%20Data.ipynb)
