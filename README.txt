@@ -1,13 +1,13 @@
-Awesome Chocolates Products sales for six countries by different sales peole are analyzed by looking at;
-1. Quick Statistics
-2. Sales by country
-3. Top 5 most Products by dollar units
-4. Presence of anomalies using boxplot/scatterplot
-5. Best Sales person by country
-6. Profits by product (using products table)
-7. Which products to discontinue? I used barplot
-8. Dynamic country-level Sales Report
+The titanic survivers prediction dataset is from a competition on Kaggle and I did machine learning prediction.
 
-NOTE: I used xlwings to load data from excel hence rerunning the cells would encounter errors if respective dataset(namely: blank.xls) is not opened on sheet 2.
+There are two datasets train and test.
 
-Credits: chandoo.org
+I preprocessed both datasets separately.
+
+I tested four models and RandomForestClassifier came with acceptable Accuracy and cross validation.
+
+Hence, my submission to Kaggle is named 'Erick_Submission.csv'
+
+I got 0.75 prediction correct which is equal to 75%
+
+Credits: Kaggle
