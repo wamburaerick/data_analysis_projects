@@ -4,7 +4,7 @@ Brief description of the repository.
 
 ## Table of Contents
 
-- [Analysis of Chocolate Products](https://github.com/wamburaerick/data_analysis_projects/blob/main/Analysis%20of%20Chocolate%20sales.zip)
+- [Analysis of Chocolate Products](https://github.com/wamburaerick/data_analysis_projects/blob/main/Analysis%20of%20Sales%20Data.ipynb)
 
 - [Project 2 Name](#project-2-name)
 
@@ -18,7 +18,7 @@ Brief description of the repository.
 
 Brief description of project 1.
 
-- [Project 1 README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
+- [Analysis of Chocolate Products README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
 
 - Any additional information or instructions for project 1.
 
