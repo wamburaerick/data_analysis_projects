@@ -26,8 +26,8 @@ A year's sales data. Analyzed only to look at the specific sales per specific ti
 
 ## Yearly Sales US
 Sales of different products in the US.
--[README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
--[DATASET](https://github.com/wamburaerick/data_analysis_projects/blob/main/Sales_Data.zip)
+- [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
+- [DATASET](https://github.com/wamburaerick/data_analysis_projects/blob/main/Sales_Data.zip)
 
 ## Contributing
 
