@@ -5,7 +5,7 @@ My Data Analytics Journey
 - [Analysis of Chocolate Products](https://github.com/wamburaerick/data_analysis_projects/blob/main/Analysis%20of%20Sales%20Data.ipynb)
 - [Titanic Survival Prediction](https://github.com/wamburaerick/data_analysis_projects/blob/main/Prediction.ipynb)
 - [A Year's Sales](https://github.com/wamburaerick/data_analysis_projects/blob/main/Sales%20Analysis.ipynb)
-- [Yearly Sales US] (https://github.com/wamburaerick/data_analysis_projects/blob/main/Yearly%20Sales%20US.ipynb)
+- [Yearly Sales US](https://github.com/wamburaerick/data_analysis_projects/blob/main/Yearly%20Sales%20US.ipynb)
 
 ## Analysis of Chocolate Products
 Awesome Chocolates Products sales for six countries by different sales people.
