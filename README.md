@@ -5,6 +5,7 @@ My Data Analytics Journey
 - [Analysis of Chocolate Products](https://github.com/wamburaerick/data_analysis_projects/blob/main/Analysis%20of%20Sales%20Data.ipynb)
 - [Titanic Survival Prediction](https://github.com/wamburaerick/data_analysis_projects/blob/main/Prediction.ipynb)
 - [A Year's Sales](https://github.com/wamburaerick/data_analysis_projects/blob/main/Sales%20Analysis.ipynb)
+- [Yearly Sales US] (https://github.com/wamburaerick/data_analysis_projects/blob/main/Yearly%20Sales%20US.ipynb)
 
 ## Analysis of Chocolate Products
 Awesome Chocolates Products sales for six countries by different sales people.
@@ -22,6 +23,11 @@ From Kaggle Competition.
 A year's sales data. Analyzed only to look at the specific sales per specific times.
 - [README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
 - [DATASET](https://github.com/wamburaerick/data_analysis_projects/blob/main/data.xlsx)
+
+## Yearly Sales US
+Sales of different products in the US
+-[README](https://github.com/wamburaerick/data_analysis_projects/blob/main/README.txt)
+-[DATASET](https://github.com/wamburaerick/data_analysis_projects/blob/main/Sales_Data.zip)
 
 ## Contributing
 
